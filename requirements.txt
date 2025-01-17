@@ -12,4 +12,3 @@ matplotlib
 pillow
 langchain-community
 plotly
-speech_recognition
