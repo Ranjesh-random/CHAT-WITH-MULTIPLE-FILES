@@ -12,3 +12,4 @@ matplotlib
 pillow
 langchain-community
 plotly
+openpyxl
